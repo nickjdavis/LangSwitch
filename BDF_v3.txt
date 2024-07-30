@@ -1,0 +1,31 @@
+bin 1
+word_Eng_NS_pre
+.{601}
+
+bin 2
+word_Eng_S_pre
+.{602}
+
+bin 3
+word_Urdu_NS_pre
+.{603}
+
+bin 4
+Word_Urdu_S_pre
+.{604}
+
+bin 5
+word_Eng_NS_post
+.{611}
+
+bin 6
+word_Eng_S_post
+.{612}
+
+bin 7
+word_Urdu_NS_post
+.{613}
+
+bin 8
+Word_Urdu_S_post
+.{614}

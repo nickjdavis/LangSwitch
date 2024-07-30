@@ -1,0 +1,83 @@
+Waveguard Touch (64)
+
+MATLAB cell array using characters vectors :
+electrodeNames = {'0Z','1Z','2Z','3Z','4Z','1L','1R','1LB','1RB','2L','2R','3L','3R','4L','4R','1LC','1RC','1LA','1RA','1LD','1RD','2LB','2LC','2RC','2RB','3LB','3RB','3LC','3RC','2LD','2RD','3RD','3LD','9Z','8Z','7Z','6Z','5Z','10L','10R','9L','9R','8L','8R','7L','7R','6L','6R','5L','5R','4LD','4RD','5LC','5RC','5LB','5RB','3LA','3RA','2LA','2RA','4LC','4RC','4LB','4RB'}
+
+
+MATLAB cell array using strings :
+electrodeNames = {"0Z","1Z","2Z","3Z","4Z","1L","1R","1LB","1RB","2L","2R","3L","3R","4L","4R","1LC","1RC","1LA","1RA","1LD","1RD","2LB","2LC","2RC","2RB","3LB","3RB","3LC","3RC","2LD","2RD","3RD","3LD","9Z","8Z","7Z","6Z","5Z","10L","10R","9L","9R","8L","8R","7L","7R","6L","6R","5L","5R","4LD","4RD","5LC","5RC","5LB","5RB","3LA","3RA","2LA","2RA","4LC","4RC","4LB","4RB"}
+
+
+MATLAB code :
+electrodeName = '3LA'
+electrodeIndex = find(strcmp([electrodeNames], electrodeName))
+scalpSite = electrodeNames(1,electrodeIndex)
+
+
+Raw list:
+1 = 0Z
+2 = 1Z
+3 = 2Z
+4 = 3Z
+5 = 4Z
+6 = 1L
+7 = 1R
+8 = 1LB
+9 = 1RB
+10 = 2L
+11 = 2R
+12 = 3L
+13 = 3R
+14 = 4L
+15 = 4R
+16 = 1LC
+17 = 1RC
+18 = 1LA
+19 = 1RA
+20 = 1LD
+21 = 1RD
+22 = 2LB
+23 = 2LC
+24 = 2RC
+25 = 2RB
+26 = 3LB
+27 = 3RB
+28 = 3LC
+29 = 3RC
+30 = 2LD
+31 = 2RD
+32 = 3RD
+33 = 3LD
+34 = 9Z
+35 = 8Z
+36 = 7Z
+37 = 6Z
+38 = 5Z
+39 = 10L
+40 = 10R
+41 = 9L
+42 = 9R
+43 = 8L
+44 = 8R
+45 = 7L
+46 = 7R
+47 = 6L
+48 = 6R
+49 = 5L
+50 = 5R
+51 = 4LD
+52 = 4RD
+53 = 5LC
+54 = 5RC
+55 = 5LB
+56 = 5RB
+57 = 3LA
+58 = 3RA
+59 = 2LA
+60 = 2RA
+61 = 4LC
+62 = 4RC
+63 = 4LB
+64 = 4RB
+
+

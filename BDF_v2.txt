@@ -1,0 +1,31 @@
+bin 1
+word_English_pre
+.{101}
+
+bin 2
+word_Urdu_pre
+.{102}
+
+bin 3
+image_English_pre
+.{201}
+
+bin 4
+image_Urdu_post
+.{202}
+
+bin 5
+word_English_post
+.{111}
+
+bin 6
+word_Urdu_post
+.{112}
+
+bin 7
+image_English_post
+.{211}
+
+bin 8
+image_Urdu_post
+.{212}

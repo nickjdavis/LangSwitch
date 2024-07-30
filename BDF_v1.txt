@@ -1,0 +1,15 @@
+bin 1
+word_English
+.{101}
+
+bin 2
+word_Urdu
+.{102}
+
+bin 3
+image_English
+.{201}
+
+bin 4
+image_Urdu
+.{202}

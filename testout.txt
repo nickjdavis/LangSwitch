@@ -1,0 +1,2 @@
+bin1_2Z	bin2_2Z	bin3_2Z	bin4_2Z	bin5_2Z	bin6_2Z	bin7_2Z	bin8_2Z	mlabel	ERPset
+   -41.813	    14.506	   -24.723	   -34.136	    -9.614	   -14.242	    -9.685	    -6.441	N2	14UL20
